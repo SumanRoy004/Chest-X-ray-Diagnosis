@@ -1,1 +1,1 @@
-# Chest-X-ray-Diagnosis
+# Chest X-ray Diagnosis(AI Radiologist)
