@@ -1,7 +1,7 @@
 # Chest X-ray Diagnosis(AI Radiologist)
 - This application basically takes the x-ray image of chest and classifies it as covid attacked or pneumonia(non-covid) or normal and provides justification based on visual findings.
 - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-11b-vision-instruct-unsloth-bnb-4bit using a covid_chestXray dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
-- Model repository:
+- Finetuned model repository:
 
      [![Hugging Face Model](https://img.shields.io/badge/HuggingFace%20Model-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Suman2004/covid_chestXray_radiologist)
 
