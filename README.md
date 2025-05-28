@@ -3,11 +3,18 @@
 - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-11b-vision-instruct-unsloth-bnb-4bit using a covid_chestXray dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
 - Model repository:
 
-     [![model repository](https://img.shields.io/badge/model_repository-1DA1F2?style=for-the-badge&logo=modelrepository&logoColor=white)](https://huggingface.co/Suman2004/covid_chestXray_radiologist)
+     [![Hugging Face Model](https://img.shields.io/badge/HuggingFace%20Model-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Suman2004/covid_chestXray_radiologist)
 
-- Dataset repository after the processing the raw csv data:
+- Dataset is copied from a repository with 1288 test datasets :
 
-  [![dataset_repository](https://img.shields.io/badge/dataset_repository-1DA1F2?style=for-the-badge&logo=Sdatasetrepository&logoColor=white)](https://huggingface.co/datasets/Suman2004/covid_chestXray)
+     - Source dataset repository :
+
+       [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace%20Dataset-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/hawking32/covid_chestXray)
+
+     - Copied dataset repository :
+     
+       [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace%20Dataset-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Suman2004/covid_chestXray)
+
 
 - ## Training Details
 - Training graphs are given below
